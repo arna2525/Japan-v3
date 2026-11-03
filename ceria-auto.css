@@ -1,0 +1,163 @@
+/* otomatis dari tools/gen-ceria-auto.py — jangan diedit manual */
+html.tc .nav button{color:var(--muted)!important}
+html.tc .app{background:#fff!important}
+html.tc .top{background:#fff!important}
+html.tc .top *{color:var(--ink)!important}
+html.tc .streak{background:#fff!important}
+html.tc .streak b{color:var(--deep)!important}
+html.tc .nav{background:#fff!important}
+html.tc .subhead h2{color:var(--ink)!important}
+html.tc .back{color:var(--ink)!important}
+html.tc .card>b{color:var(--ink)!important}
+html.tc .hero-mini h3{color:var(--ink)!important}
+html.tc .hero-mini[style*="e8f8f0"],html.tc .hero-mini[style*="e3f6ec"]{background:#fff!important}
+html.tc .hero-mini[style*="fff0f4"],html.tc .hero-mini[style*="fde7ee"]{background:#fff!important}
+html.tc ruby rt{color:var(--deep)!important}
+html.tc .search,html.tc textarea{color:var(--ink)!important}
+html.tc .pill{color:var(--muted)!important}
+html.tc .word h4{color:var(--ink)!important}
+html.tc .glyph{background:#fff!important;color:var(--ink)!important;border-color:var(--line)!important}
+html.tc .tag{background:#fff!important;border-color:var(--line)!important}
+html.tc .chnum{background:#fff!important}
+html.tc .chnum.done{background:#fff!important;color:var(--deep)!important}
+html.tc .pattern b{color:var(--ink)!important}
+html.tc .exbox{color:var(--ink)!important}
+html.tc .flash{background:#fff!important;color:var(--ink)!important}
+html.tc .flash .kanji{color:var(--ink)!important}
+html.tc .flash .meaning{color:var(--ink)!important}
+html.tc .fcard .ff,html.tc .fcard .fb{background:#fff!important;color:var(--ink)!important}
+html.tc .fcard .fb{background:#fff!important}
+html.tc .kk{color:var(--ink)!important}
+html.tc .fb b,html.tc .fb span{color:var(--ink)!important}
+html.tc .fb small{color:var(--deep)!important}
+html.tc .lv{background:#fff!important;border-color:var(--line)!important}
+html.tc .quizopt{color:var(--ink)!important}
+html.tc .quizopt:hover,html.tc .quizopt.sel{background:#fff!important}
+html.tc .quizopt.ok{background:#fff!important}
+html.tc .quizopt.bad{background:#fff!important}
+html.tc .qword{color:var(--ink)!important}
+html.tc .progress{background:#fff!important}
+html.tc .stat b{color:var(--ink)!important}
+html.tc .menu button{color:var(--ink)!important}
+html.tc .bchero{background:#fff!important;border-color:var(--line)!important}
+html.tc .bchero .kan{color:var(--ink)!important}
+html.tc .bchero .kick{color:var(--deep)!important}
+html.tc .bchero h2{color:var(--ink)!important}
+html.tc .bchero p{color:var(--muted)!important}
+html.tc .hud{border-color:var(--line)!important}
+html.tc .xpw .rk{color:var(--ink)!important}
+html.tc .xpw .rk small{color:var(--deep)!important}
+html.tc .xpbar{background:#fff!important}
+html.tc .sec h3{color:var(--ink)!important}
+html.tc .sec small{color:var(--deep)!important}
+html.tc .dqr .ic{background:#fff!important;color:var(--ink)!important;border-color:var(--line)!important}
+html.tc .dqr .tx{color:var(--ink)!important}
+html.tc .pb{background:#fff!important}
+html.tc .dqr.ok .ic{background:#fff!important;color:var(--deep)!important}
+html.tc .dqr.ok .rw{color:var(--deep)!important}
+html.tc .gm button{background:#fff!important;color:var(--ink)!important}
+html.tc .gm button:nth-child(even) span{background:#fff!important;border-color:var(--line)!important}
+html.tc .hav{background:#fff!important}
+html.tc .profcard .avatar.pfp{background:#fff!important}
+html.tc .bgi.ok .bpn{background:#fff!important;color:var(--deep)!important}
+html.tc .bpcard{background:#fff!important;border-color:var(--line)!important}
+html.tc .bptitle{color:var(--ink)!important}
+html.tc .bpf{color:var(--muted)!important}
+html.tc .chip{background:#fff!important;color:var(--ink)!important;border-color:var(--line)!important}
+html.tc .bex .jp{color:var(--ink)!important}
+html.tc .bex .idn span{color:var(--ink)!important}
+html.tc .bnote{background:#fff!important}
+html.tc .bnote p{color:var(--ink)!important}
+html.tc .kprev{color:var(--ink)!important}
+html.tc .kdayh h3{color:var(--ink)!important}
+html.tc .kview button{color:var(--muted)!important}
+html.tc .kview button.on{color:var(--ink)!important}
+html.tc .khead{background:#fff!important;color:var(--deep)!important}
+html.tc .krow:nth-child(even){background:#fff!important}
+html.tc .kk1{color:var(--ink)!important}
+html.tc .kk2{color:var(--ink)!important}
+html.tc .kk3{color:var(--ink)!important}
+html.tc .bu b{color:var(--ink)!important}
+html.tc .kchk{border-color:var(--line)!important}
+html.tc .bgh b{color:var(--ink)!important}
+html.tc .bgb{background:#fff!important;color:var(--ink)!important}
+html.tc .bgb.on{background:#fff!important}
+html.tc .jsum{background:#fff!important;border-color:var(--line)!important}
+html.tc .jpos{color:var(--ink)!important}
+html.tc .jlvl{color:var(--deep)!important}
+html.tc .jbar{color:var(--ink)!important}
+html.tc .jmini{color:var(--muted)!important}
+html.tc .jnext{border-color:var(--line)!important}
+html.tc .jnext .jk{color:var(--ink)!important}
+html.tc .jnext b{color:var(--ink)!important}
+html.tc .jbtns .btn.on{background:#fff!important;color:var(--ink)!important}
+html.tc .jsh b{color:var(--ink)!important}
+html.tc .jch{background:#fff!important;color:var(--ink)!important}
+html.tc .jch.learning{background:#fff!important}
+html.tc .jch.review{background:#fff!important}
+html.tc .jch.mastered{background:#fff!important}
+html.tc .jbig{background:#fff!important;border-color:var(--line)!important}
+html.tc .badge{background:#fff!important;color:var(--deep)!important;border-color:var(--line)!important}
+html.tc .badge.mastered{background:#fff!important;color:var(--deep)!important}
+html.tc .badge.learning{background:#fff!important;color:var(--deep)!important}
+html.tc .bigk{color:var(--ink)!important}
+html.tc .jbig h3{color:var(--ink)!important}
+html.tc .jread{color:var(--ink)!important}
+html.tc .jex{color:var(--muted)!important}
+html.tc .jex b{color:var(--ink)!important}
+html.tc .jmeta span{background:#fff!important;color:var(--ink)!important}
+html.tc .jq{background:#fff!important;color:var(--deep)!important}
+html.tc .jqz .qk{color:var(--ink)!important}
+html.tc .seg{background:#fff!important}
+html.tc .seg button{color:var(--muted)!important}
+html.tc .tg{color:var(--ink)!important}
+html.tc .jpl{color:var(--ink)!important}
+html.tc .jpl .kt{color:var(--deep)!important}
+html.tc .rom{color:var(--muted)!important}
+html.tc .idl{color:var(--ink)!important}
+html.tc .cv b{color:var(--ink)!important}
+html.tc .cv span{color:var(--deep)!important}
+html.tc .cv em{color:var(--ink)!important}
+html.tc .cv.ok{background:#fff!important}
+html.tc .cv.ok i{color:var(--deep)!important}
+html.tc .cv.bad{background:#fff!important}
+html.tc .ck span{color:var(--ink)!important}
+html.tc .kz-mode{color:var(--ink)!important}
+html.tc .kz-mode span{color:var(--muted)!important}
+html.tc .kz-row select,html.tc .kz-in{color:var(--ink)!important}
+html.tc .kz-meta{color:var(--muted)!important}
+html.tc .kz-sub{color:var(--muted)!important}
+html.tc .quizopt.ng{background:#fff!important}
+html.tc .kz-n{color:var(--muted)!important}
+html.tc .kz-n.ans{background:#fff!important;color:var(--ink)!important}
+html.tc .rdo{color:var(--ink)!important}
+html.tc .rdk{color:var(--deep)!important}
+html.tc .ltlabel{background:#fff!important;color:var(--deep)!important}
+html.tc .hubnote{color:var(--muted)!important}
+html.tc .hubh{color:var(--ink)!important}
+html.tc .hubstep{background:#fff!important}
+html.tc .hubstep b{color:var(--ink)!important}
+html.tc .hubstep p{color:var(--muted)!important}
+html.tc .hubstep span{color:var(--deep)!important}
+html.tc .hc{background:#fff!important;color:var(--ink)!important;border-color:var(--line)!important}
+html.tc .hc h4{color:var(--ink)!important}
+html.tc .hc small{color:var(--muted)!important}
+html.tc .hgroup{background:#fff!important;border-color:var(--line)!important}
+html.tc .hgroup>h4{color:var(--ink)!important}
+html.tc .hgroup>h4 small{color:var(--muted)!important}
+html.tc .hgroup .hrow3 button{background:#fff!important;color:var(--ink)!important;border-color:var(--line)!important}
+html.tc .hgroup .hrow3 button:active{background:#fff!important}
+html.tc .hgroup .hrow3 small{color:var(--muted)!important}
+html.tc .path button{background:#fff!important;color:var(--ink)!important;border-color:var(--line)!important}
+html.tc .path small{color:var(--muted)!important}
+html.tc .rng{color:var(--muted)!important}
+html.tc .rng select{background:#fff!important;color:var(--ink)!important}
+html.tc .mixb{color:var(--deep)!important}
+html.tc .ltmsg{color:var(--deep)!important}
+html.tc .fdbar{color:var(--muted)!important}
+html.tc .jpanel{background:#fff!important;border-color:var(--line)!important}
+html.tc .jpanel h4{color:var(--ink)!important}
+html.tc .jnum{background:#fff!important;color:var(--ink)!important}
+html.tc .jtoday>b{color:var(--deep)!important}
+html.tc #kjrq .jqz .qk{color:var(--ink)!important}
+html.tc .lv-N3p{background:#fff!important}
